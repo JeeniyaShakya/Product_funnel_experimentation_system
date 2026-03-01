@@ -45,7 +45,7 @@ Using **BigQuery SQL**, I built a dynamic funnel to track acquisition, activatio
 The data was translated into a high-level business summary to communicate results to non-technical stakeholders.
 
 ### **Dashboard Screenshot**
-![Product Funnel Dashboard](visualizations/dashboard_screenshot.png)
+![Product Funnel Dashboard](https://github.com/JeeniyaShakya/Product_funnel_experimentation_system/blob/main/Saas_growth_exp_dashboard.png)
 
 ## 🏆 Techniques Used
 * **Funnel Visualization:** Dynamic slicers to compare conversion between experiment groups.
