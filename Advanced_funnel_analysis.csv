@@ -1,0 +1,9 @@
+cohort,step_number,stage_name,users_at_stage,previous_stage_users,total_visitors,step_dropoff_pct,total_conversion_pct
+Control,1,visit_website,25045,,25045,,100.0
+Control,2,sign_up,8706,25045,25045,65.24,34.76
+Control,3,complete_onboarding,5230,8706,25045,39.93,20.88
+Control,4,subscribe,1292,5230,25045,75.3,5.16
+Variant,1,visit_website,24955,,24955,,100.0
+Variant,2,sign_up,10580,24955,24955,57.6,42.4
+Variant,3,complete_onboarding,7282,10580,24955,31.17,29.18
+Variant,4,subscribe,2499,7282,24955,65.68,10.01
